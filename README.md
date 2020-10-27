@@ -1,0 +1,3 @@
+# medern-host-website
+
+This is a fake cloud hosting website using html and css modern propreties and tricks like css grid and animation...
